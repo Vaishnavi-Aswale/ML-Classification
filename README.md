@@ -25,13 +25,24 @@ load a historical dataset from previous loan applications, clean the data, and a
 </ul>
 
 
-
 The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
 <ul>
   <li>Jaccard index</li>
   <li>F1-score</li>
   <li>LogLoass</li>
 </ul>
+
+
+<h2>Results</h2>
+
+
+     | Algorithm          | Jaccard | F1-score | LogLoss |
+     |--------------------|---------|----------|---------|
+     | KNN                | 0.67    | 0.63     | NA      |
+     | Decision Tree      | 0.72    | 0.74     | NA      |
+     | SVM                | 0.80    | 0.76     | NA      |
+     | LogisticRegression | 0.74    | 0.66     | 0.57    |
+
 
 
 

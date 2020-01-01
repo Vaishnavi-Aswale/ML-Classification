@@ -16,7 +16,7 @@ This dataset is about past loans. The __Loan_train.csv__ data set includes detai
 
 
 
-You load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models:
+load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the dataset. Using the following algorithms to build your models:
 <ul>
 <li>k-Nearest Neighbour</li>
 <li>Decision Tree</li>
@@ -32,6 +32,7 @@ The results is reported as the accuracy of each classifier, using the following 
   <li>F1-score</li>
   <li>LogLoass</li>
 </ul>
+
 
 
 
